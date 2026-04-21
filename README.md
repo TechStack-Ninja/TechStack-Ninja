@@ -126,9 +126,3 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=TechStack-Ninja&limit=6&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=false&hide_title=false&hide_rank=false&card_width=450)
-
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align = "center">
-	<img src = "https://gist.githubusercontent.com/TechStack-Ninja/20c1560ce1676ad17eeb7c5dc9786dcc/raw/3d3dc438075a3b8834b9c25eef9ca9531ff669c9/GitSnake.svg" alt = "Snake Game"/>
-</p>
